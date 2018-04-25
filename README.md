@@ -12,7 +12,8 @@ If you use **other Bootstrap version**, take modal HTML code from your Bootstrap
 - data-dismiss="modal" 
 
 Note what id has your modal and set the same in JS code on the line with **modal('show');**
-[Preview working demo](https://konrad151.usermd.net/myprojects/expiring-cookie-bootstrap-modals/modal-cookie-hours-bootstrap.html)
+<br />
+<a href="https://konrad151.usermd.net/myprojects/expiring-cookie-bootstrap-modals/modal-cookie-hours-bootstrap.html" target="_blank">Preview working demo</a>
 
 ## modal-cookie-session-bootstrap.html
 This file is with JS script and HTML code with expiring modal based on session.
@@ -25,4 +26,5 @@ If you use **other Bootstrap version**, take modal HTML code from your Bootstrap
 - data-dismiss="modal" 
 
 Note what id has your modal and set the same in JS code on the line with **modal('show');**
-[Preview working demo](https://konrad151.usermd.net/myprojects/expiring-cookie-bootstrap-modals/modal-cookie-session-bootstrap.html)
+<br />
+<a href="https://konrad151.usermd.net/myprojects/expiring-cookie-bootstrap-modals/modal-cookie-session-bootstrap.html" target="_blank">Preview working demo</a>
